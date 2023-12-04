@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Caio and I'm a Network Engineer, from :brazil:.<br><br>I had :de: as my second home for two years.<br>Now living the European dream in :netherlands:!<br><br>:speech_balloon: Ask me football!<br><br>:on: Amazon Web Services<br>:on: Python</h3>
+<h3 align="left">Hi 👋! My name is Caio and I'm a Network Engineer, from :brazil:.<br><br>I had :de: as my second home for two years.<br>Now living the European dream in :netherlands:!<br>:on: Amazon Web Services<br>:on: Python</h3>
 
 ###
 
