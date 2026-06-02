@@ -1,16 +1,13 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:009448&height=200&section=header&text=Hey,%20I'm%20Caio&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=DevOps%20%2F%20SRE%20%7C%20Zaandam&descAlignY=62&descSize=18&descColor=009448" width="100%"/>
-
-</div>
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiospessoa/caiospessoa/main/header-dark.png">
+  <img src="https://raw.githubusercontent.com/caiospessoa/caiospessoa/main/header-light.png" width="100%"/>
+</picture>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiopessoa)
 &nbsp;
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiospessoa@gmail.com)
 &nbsp;
 [![Zaandam](https://img.shields.io/badge/🏍️_Zaandam-NL-009448?style=for-the-badge)](https://en.wikipedia.org/wiki/Zaandam)
 
@@ -19,7 +16,7 @@
 ---
 
 ```
-Brazilian living in Zaandam. Riding motorcycles through the city.
+Brazilian living in Zaandam. Riding motorcycles through the city and trying to be a better BOXER!
 Building observability platforms by day, breaking things to understand them.
 
 Network engineer turned SRE — from HFT trading floors and Arista switches
