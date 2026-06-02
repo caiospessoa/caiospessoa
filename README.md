@@ -64,8 +64,8 @@ underneath the noise.
 
 | Period | Where | What I was doing |
 |--------|-------|-----------------|
-| Early career | Brazil → EU | Network engineering, DC infra, cross-connects |
-| HFT era | Zaandam | Low-latency networks, Arista/Metamako, gNMI telemetry, BGP |
+| Early career | Brazil | Network engineering, DC infra, cross-connects |
+| HFT era | Brazil → Amsterdam | Low-latency networks, Arista/Metamako, gNMI telemetry, BGP |
 | Streaming & retail | Netherlands | Shifting from pure networking to infra observability |
 | Now | Zaandam | SRE / DevOps, cloud-native, LGTM stack on AKS |
 
@@ -99,20 +99,10 @@ not_doing:
 
 ---
 
-## 🏍️ Outside the terminal
+## 🏍️ 🥊 Outside the terminal
 
 Zaandam commuter on a naked bike — A10, A8, A7, whatever the ring roads throw at me.
-Training 5x a week (push / pull / legs), obsessing over macros.
-Brazilian abroad, always looking for decent coffee, a good road, and a Saturday with football on — grew up supporting a green São Paulo club that plays at a ground surrounded by palm trees. You probably know the one.
+Training and hitting the boxing bag is always a must.
+Brazilian abroad, always looking for a decent beer, a good road, and a Sunday with football on — grew up supporting a green São Paulo/SP club. You probably know the one.
 
 ---
-
-<div align="center">
-
-*"The map is not the territory — but a good dashboard gets pretty close."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009448,100:0f0f0f&height=100&section=footer" width="100%"/>
-
-</div>
