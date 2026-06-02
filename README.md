@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiopessoa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 &nbsp;
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiospessoa@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 &nbsp;
 [![Zaandam](https://img.shields.io/badge/🏍️_Zaandam-NL-009448?style=for-the-badge)](https://en.wikipedia.org/wiki/Zaandam)
 
@@ -19,11 +19,12 @@
 ---
 
 ```
-Brazilian living in Zaandam. Riding motorcycles through the city and trying to be a better boxer!
+Brazilian living in Zaandam. Riding motorcycles through the city.
 Building observability platforms by day, breaking things to understand them.
 
-Network engineer turned SRE — from HFT trading floors and Arista switches to cloud-native stacks on Kubernetes.
-I've always cared about the signal underneath the noise.
+Network engineer turned SRE — from HFT trading floors and Arista switches
+to cloud-native stacks on Kubernetes. I've always cared about the signal
+underneath the noise.
 ```
 
 ---
